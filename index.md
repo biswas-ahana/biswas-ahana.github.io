@@ -4,20 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a first-year Information Science PhD student at the University of Pittsburgh working with [Prof. Yu-Ru Lin](http://www.yurulin.com/). I am primarily interested in understanding how misinformation spreads in cyber-social spaces.
+
+Prior to this, I worked as a Research Assistant at the [Third Space Research Group](https://thirdspace.toronto.edu/) at the University of Toronto under [Prof. Ishtiaque Ahmed](https://www.ishtiaque.net/) and [Prof. Shebuti Rayana](http://shebuti.com/) (SUNY Old Westbury) on Covid-19 Stigma Detection on Twitter. I also worked as a Research Assistant at the [AISys Lab](https://github.com/softsys4ai) at the University of South Carolina under [Prof. Pooyan Jamshidi](https://pooyanjamshidi.github.io/) on Causal Transfer Learning.  
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Computational Social Science, Misinformation, Social Network Analysis
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan 2023]** Joined the University of Pittsburgh as a PhD student!
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
