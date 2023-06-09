@@ -4,7 +4,7 @@
 body {
   background-color: #fff;
   padding:0px;
-  font: 16.0px/1.5 Crimson Pro, serif; 
+  font: 16.0px/1.7 Crimson Pro, serif; 
   color:#595959;
   font-weight:400;
   margin:0
@@ -22,7 +22,7 @@ body {
   color:#043361!important;
   border-radius:100%;
   text-align:center;
-  font-size:1.15rem;
+  font-size:1.3rem;
   line-height:2.5rem;
   margin-right:1rem}
 
@@ -196,7 +196,7 @@ papertitle {
 
 
   .image {
-    border-radius: 0.35em;
+    border-radius: 0.5em;
     border: 0;
     display: inline-block;
     position: relative;
@@ -207,7 +207,7 @@ papertitle {
       -webkit-transition: opacity 0.2s ease-in-out;
       -ms-transition: opacity 0.2s ease-in-out;
       transition: opacity 0.2s ease-in-out;
-      border-radius: 0.35em;
+      border-radius: 0.5em;
       content: '';
       display: block;
       height: 100%;
@@ -584,7 +584,7 @@ footer {
 @media print {
   body {
     padding:0.4in;
-    font-size:12pt;
+    font-size:14pt;
     color:#444;
   }
 }
