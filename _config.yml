@@ -20,8 +20,8 @@ twitter: https://twitter.com/ahana_bi
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar2.jpg
-favicon: ./assets/img/xx.jpg
-favicon_dark: ./assets/img/xx.jpg
+favicon: ./assets/img/xx.png
+favicon_dark: ./assets/img/xx.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
