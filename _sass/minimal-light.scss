@@ -9,7 +9,11 @@ body {
   font-weight:400;
   margin:0
 }
-
+.box {
+  border: 10px solid rebeccapurple;
+  border-top: 2px solid rebeccapurple;
+  border-bottom: 2px solid rebeccapurple;
+}
 .pub-row {
   display: flex; 
   align-items: center;}
