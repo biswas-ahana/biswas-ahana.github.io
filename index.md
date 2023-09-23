@@ -22,6 +22,3 @@ Computational Social Science, Misinformation, Social Network Analysis
 
 - **Biswas, A.**, Niven, T., Lin, YR. (2023). The Dynamics of Political Narratives During the Russian Invasion of Ukraine. In: Thomson, R., Al-khateeb, S., Burger, A., Park, P., A. Pyke, A. (eds) Social, Cultural, and Behavioral Modeling. SBP-BRiMS 2023. Lecture Notes in Computer Science, vol 14161. Springer, Cham. https://doi.org/10.1007/978-3-031-43129-6_4
 
-<!-- {% include_relative _includes/publications.md %} --> 
-
-<!-- {% include_relative _includes/services.md %} -->
