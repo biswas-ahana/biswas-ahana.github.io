@@ -15,6 +15,7 @@ Computational Social Science, Misinformation, Social Network Analysis
 
 ## News
 
+- **[Sep 2023]** Presented my work on Chinese propaganda at SBP-BRiMS ([slides](https://docs.google.com/presentation/d/1XNk2TvF_07_hZg5NVqkDzxOuJ7WfJOvZDoB-0C9dXyE/edit?usp=sharing))
 - **[Jan 2023]** Joined the University of Pittsburgh as a PhD student!
 
 <!-- {% include_relative _includes/publications.md %} -->
