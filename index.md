@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## ABOUT ME
 
 I'm a second-year Information Science PhD student at the University of Pittsburgh working with [Prof. Yu-Ru Lin](http://www.yurulin.com/). I am primarily interested in studying how individuals interact and behave in digital spaces. My research centers on understanding what captures people's attention online, how information spreads, and how communities form and evolve within cyber-social spaces, as well as the impact of network structures on social behaviors and dynamics. I explore these topics using computational methods and NLP tools to analyze large-scale datasets from various online platforms such as Twitter and FB. Through my work, I aim to uncover insights into how individuals engage in digital communities and how these interactions shape our online world.
 
