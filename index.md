@@ -16,11 +16,10 @@ Please feel free to reach out!
 Computational Social Science, Social Media, Network Analysis
 
 ## News 
-- **[Mar 2023]** Participated in SCI 3MT Competition, Pitt (People’s Choice Award!)
-- **[Mar 2023]** Passed my Preliminary exams!
+- **[Mar 2024]** Participated in SCI 3MT Competition, Pitt (People’s Choice Award!)
+- **[Mar 2024]** Passed my Preliminary exams!
 - **[Nov 2023]** Gave a talk at DINS PhD Seminar, University of Pittsburgh
 - **[Sep 2023]** Presented my work on Chinese propaganda at SBP-BRiMS ([slides](https://docs.google.com/presentation/d/1XNk2TvF_07_hZg5NVqkDzxOuJ7WfJOvZDoB-0C9dXyE/edit?usp=sharing))
-- **[Jan 2023]** Joined the University of Pittsburgh as a PhD student!
 
 ## Publication
 
