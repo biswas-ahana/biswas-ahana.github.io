@@ -22,7 +22,7 @@ Computational Social Science, Social Media, Network Analysis
 - **[Nov 2023]** Gave a talk at DINS PhD Seminar, University of Pittsburgh
 - **[Sep 2023]** Presented my work on Chinese propaganda at SBP-BRiMS ([slides](https://docs.google.com/presentation/d/1XNk2TvF_07_hZg5NVqkDzxOuJ7WfJOvZDoB-0C9dXyE/edit?usp=sharing))
 
-## Publication
+## Publications
 
 - **Biswas, A.**, Lin, YR., Tai, YC., Desmarais BA. Political Elites in the Attention Economy: Visibility Over Civility and Credibility? Accepted in ICWSM 2025
 - **Biswas, A.**, Niven, T., Lin, YR. Political Narratives During the Russian Invasion of Ukraine. Social, Cultural, and Behavioral Modeling (SBP-BRiMS) 2023. [DOI](https://doi.org/10.1007/978-3-031-43129-6_4)
