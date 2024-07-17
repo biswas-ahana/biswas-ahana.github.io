@@ -16,12 +16,14 @@ Please feel free to reach out!
 Computational Social Science, Social Media, Network Analysis
 
 ## News 
-- **[Mar 2024]** Participated in SCI 3MT Competition, Pitt (People’s Choice Award!)
+- **[Jul 2024]** Our paper titled 'Political Elites in the Attention Economy: Visibility Over Civility and Credibility?' has been accepted to ICWSM 2025!
+- **[Mar 2024]** Participated in SCI 3MT Competition, Pitt (Won the People’s Choice Award!)
 - **[Mar 2024]** Passed my Preliminary exams!
 - **[Nov 2023]** Gave a talk at DINS PhD Seminar, University of Pittsburgh
 - **[Sep 2023]** Presented my work on Chinese propaganda at SBP-BRiMS ([slides](https://docs.google.com/presentation/d/1XNk2TvF_07_hZg5NVqkDzxOuJ7WfJOvZDoB-0C9dXyE/edit?usp=sharing))
 
 ## Publication
 
+- **Biswas, A.**, Lin, YR., Tai, YC., Desmarais BA. Political Elites in the Attention Economy: Visibility Over Civility and Credibility? Accepted in ICWSM 2025
 - **Biswas, A.**, Niven, T., Lin, YR. Political Narratives During the Russian Invasion of Ukraine. Social, Cultural, and Behavioral Modeling (SBP-BRiMS) 2023. [DOI](https://doi.org/10.1007/978-3-031-43129-6_4)
 
