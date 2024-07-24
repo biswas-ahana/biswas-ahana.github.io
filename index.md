@@ -24,6 +24,6 @@ Computational Social Science, Social Media, Network Analysis
 
 ## Publications
 
-- **Biswas, A.**, Lin, YR., Tai, YC., Desmarais BA. Political Elites in the Attention Economy: Visibility Over Civility and Credibility? Accepted in ICWSM 2025
+- **Biswas, A.**, Lin, YR., Tai, YC., Desmarais BA. Political Elites in the Attention Economy: Visibility Over Civility and Credibility? Accepted in ICWSM 2025. [DOI](https://arxiv.org/abs/2407.16014) 
 - **Biswas, A.**, Niven, T., Lin, YR. Political Narratives During the Russian Invasion of Ukraine. Social, Cultural, and Behavioral Modeling (SBP-BRiMS) 2023. [DOI](https://doi.org/10.1007/978-3-031-43129-6_4)
 
