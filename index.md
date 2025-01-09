@@ -13,7 +13,7 @@ Please feel free to reach out!
 
 ## Research Interests
 
-Computational Social Science, Social Media, Network Analysis
+Computational Social Science, Network Analysis, Causal Inference
 
 ## News 
 - **[Jul 2024]** Our paper titled 'Political Elites in the Attention Economy: Visibility Over Civility and Credibility?' has been accepted to ICWSM 2025!
