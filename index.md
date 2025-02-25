@@ -20,7 +20,7 @@ Computational Social Science, Network Analysis, Causal Inference, Machine Learni
 - **[Mar 2024]** Participated in SCI 3MT Competition, Pitt (Won People’s Choice Award!)
 - **[Mar 2024]** Passed my Preliminary exams!
 - **[Nov 2023]** Gave a talk at DINS PhD Seminar, University of Pittsburgh
-- **[Sep 2023]** Presented my work on Chinese propaganda at SBP-BRiMS ([slides](https://docs.google.com/presentation/d/1XNk2TvF_07_hZg5NVqkDzxOuJ7WfJOvZDoB-0C9dXyE/edit?usp=sharing))
+- **[Sep 2023]** Presented my work on RU war-related propaganda at SBP-BRiMS ([slides](https://docs.google.com/presentation/d/1XNk2TvF_07_hZg5NVqkDzxOuJ7WfJOvZDoB-0C9dXyE/edit?usp=sharing))
 
 ## Publications
 
