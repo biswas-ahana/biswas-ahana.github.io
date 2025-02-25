@@ -4,7 +4,7 @@ layout: homepage
 
 ## ABOUT ME
 
-I'm a third-year Information Science PhD student at the University of Pittsburgh working with [Prof. Yu-Ru Lin](http://www.yurulin.com/). I am primarily interested in studying how individuals interact and behave in digital spaces. My research centers on understanding what captures people's attention online, how information spreads, and how communities form and evolve within cyber-social spaces, as well as the impact of network structures on social behaviors and dynamics. I explore these topics using computational methods and NLP tools to analyze large-scale datasets from various online platforms such as Twitter and FB. Through my work, I aim to uncover insights into how individuals engage in digital communities and how these interactions shape our online world.
+I'm a third-year Information Science PhD student at the University of Pittsburgh working with [Prof. Yu-Ru Lin](http://www.yurulin.com/). I am primarily interested in studying how individuals interact and behave in digital spaces. My research centers on understanding what captures people's attention online, how information spreads, and how communities form and evolve within cyber-social spaces, as well as the impact of network structures on social behaviors and dynamics. I explore these topics using Machine Learning and NLP methods to analyze large-scale datasets from various online platforms such as Twitter/X, Facebook, and Tiktok. Through my work, I aim to uncover insights into how individuals engage in digital communities and how these interactions shape our online world.
 
 Please feel free to reach out!
 
@@ -13,7 +13,7 @@ Please feel free to reach out!
 
 ## Research Interests
 
-Computational Social Science, Network Analysis, Causal Inference
+Computational Social Science, Network Analysis, Causal Inference, Machine Learning
 
 ## News 
 - **[Jul 2024]** Our paper titled 'Political Elites in the Attention Economy: Visibility Over Civility and Credibility?' has been accepted to ICWSM 2025!
