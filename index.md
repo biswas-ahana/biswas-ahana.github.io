@@ -17,7 +17,8 @@ Computational Social Science, Network Analysis, Causal Inference, Responsible AI
 
 ## News 
 - **[Jul 2024]** Our paper titled 'Political Elites in the Attention Economy: Visibility Over Civility and Credibility?' has been accepted to ICWSM 2025!
-- **[Mar 2024]** Participated in SCI 3MT Competition, Pitt (Won People’s Choice Award!)
+- **[Jul 2024]** Attended the Summer Institute in Computational Social Science (SICSS) and IC2S2 conference at the University of Pennsylvania
+- **[Mar 2024]** Won People’s Choice Award in 3 Minute-Thesis Competition organized by School of Computing and Information at Pitt
 - **[Mar 2024]** Passed my Preliminary exams!
 - **[Nov 2023]** Gave a talk at DINS PhD Seminar, University of Pittsburgh
 - **[Sep 2023]** Presented my work on RU war-related propaganda at SBP-BRiMS ([slides](https://docs.google.com/presentation/d/1XNk2TvF_07_hZg5NVqkDzxOuJ7WfJOvZDoB-0C9dXyE/edit?usp=sharing))
