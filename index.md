@@ -16,6 +16,8 @@ Please feel free to reach out!
 Computational Social Science, Network Analysis, Causal Inference, Responsible AI
 
 ## News 
+- **[Apr 2025]** Passed my Comprehensive Exam!
+- **[Apr 2025]** Presented a talk on the visibility dynamics of political elites at the IEEE Technical Symposium in Western Pennsylvania 
 - **[Jul 2024]** Our paper titled 'Political Elites in the Attention Economy: Visibility Over Civility and Credibility?' has been accepted to ICWSM 2025!
 - **[Jul 2024]** Attended the Summer Institute in Computational Social Science (SICSS) and IC2S2 conference at the University of Pennsylvania
 - **[Mar 2024]** Won People’s Choice Award in 3 Minute-Thesis Competition organized by School of Computing and Information at Pitt
