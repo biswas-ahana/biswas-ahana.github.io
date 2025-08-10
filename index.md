@@ -21,8 +21,8 @@ Computational Social Science, Network Analysis, Causal Inference, Responsible AI
 - <span style="color: red; font-weight: bold;">[Aug 2025]</span> Will present a poster at PolNet-PACSS, Boston!
 - <span style="color: red; font-weight: bold;">[Jul 2025]</span> Our paper titled 'Toxic politics and TikTok engagement in the 2024 U.S. election' has been accepted in Harvard Kennedy School Misinformation Review
 - <span style="color: red; font-weight: bold;">[Jul 2025]</span> Started a summer internship at Phenom, developing human-understandable counterfactual explanations for AI-driven job matching models.
-- <span style="color: red; font-weight: bold;">[Jun 2025]</span> Presented work on elite cross-party interactions at Sunbelt 2025, Paris!
-- <span style="color: red; font-weight: bold;">[Jun 2025]</span> Presented our paper on visibility of political elites at ICWSM 2025, Copenhagen!
+- <span style="color: red; font-weight: bold;">[Jun 2025]</span> Two oral presentations at ICWSM 2025, Copenhagen and Sunbelt 2025, Paris!
+- <span style="color: red; font-weight: bold;">[Apr 2025]</span> Our latest findings on elite influence were featured in [The Conversation]([https://doi.org/10.1007/978-3-031-43129-6_4](https://theconversation.com/some-politicians-who-share-harmful-information-are-rewarded-with-more-clicks-study-finds-252491))!
 - **[Apr 2025]** Passed my Comprehensive Exam!
 - **[Apr 2025]** Presented a talk on the visibility dynamics of political elites at the IEEE Technical Symposium in Western Pennsylvania 
 - **[Jul 2024]** Our paper titled 'Political Elites in the Attention Economy: Visibility Over Civility and Credibility?' has been accepted to ICWSM 2025!
