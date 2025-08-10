@@ -18,6 +18,7 @@ Please feel free to reach out!
 Computational Social Science, Network Analysis, Causal Inference, Responsible AI
 
 ## News 
+- <span style="color: red; font-weight: bold;">[Aug 2025]</span> Will present a poster at PolNet-PACSS, Boston!
 - <span style="color: red; font-weight: bold;">[Jul 2025]</span> Our paper titled 'Toxic politics and TikTok engagement in the 2024 U.S. election' has been accepted in Harvard Kennedy School Misinformation Review
 - <span style="color: red; font-weight: bold;">[Jul 2025]</span> Started a summer internship at Phenom, developing human-understandable counterfactual explanations for AI-driven job matching models.
 - <span style="color: red; font-weight: bold;">[Jun 2025]</span> Presented work on elite cross-party interactions at Sunbelt 2025, Paris!
