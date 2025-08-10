@@ -19,6 +19,7 @@ Computational Social Science, Network Analysis, Causal Inference, Responsible AI
 
 ## News 
 - **[Jul 2025]** Our paper titled 'Toxic politics and TikTok engagement in the 2024 U.S. election' has been accepted in Harvard Kennedy School Misinformation Review
+- **[Jul 2025]** Started a summer internship at Phenom, developing human-understandable counterfactual explanations for AI-driven job matching models.
 - **[Apr 2025]** Passed my Comprehensive Exam!
 - **[Apr 2025]** Presented a talk on the visibility dynamics of political elites at the IEEE Technical Symposium in Western Pennsylvania 
 - **[Jul 2024]** Our paper titled 'Political Elites in the Attention Economy: Visibility Over Civility and Credibility?' has been accepted to ICWSM 2025!
