@@ -24,37 +24,55 @@ Computational Social Science, Online Discourse, Causal Inference, NLP/LLMs, Netw
 
 ## Research
 
-My research examines how communication unfolds within large-scale, algorithmically mediated environments and how platform structures shape what people see, engage with, and respond to online. I focus on the mechanisms through which visibility, social feedback, and ranking systems influence discourse, engagement, and the formation of political narratives. My work spans three interconnected areas:
+<div class="research-cards">
 
-### **1. Online Discourse, Visibility, and Social Feedback**
-I study how content gains visibility and how audience reactions—likes, comments, shares—reinforce or reshape communication dynamics. This includes work on cross-partisan interactions, toxic amplification, and elite–audience behavior across TikTok, Twitter/X, and Facebook.
+  <details class="research-card" open>
+    <summary>
+      <span class="research-card-title">Online Discourse, Visibility, and Social Feedback</span>
+    </summary>
+    <div class="research-card-body">
+      <p>
+      I study how content gains visibility and how audience reactions—likes, comments, shares—reinforce or reshape communication dynamics. This includes work on cross-partisan interactions, toxic amplification, and elite–audience behavior across TikTok, Twitter/X, and Facebook.
+      </p>
+      <ul>
+        <li><strong>Political Elites in the Attention Economy (ICWSM 2025)</strong>: A network- and causally informed analysis examining how visibility signals and audience responses shape political elites’ communication incentives.</li>
+        <li><strong>Cross-Partisan Interaction Dynamics (ICWSM 2026 under review)</strong>: A longitudinal study of how engagement with cross-partisan posts affects future interactions, using matching-based causal inference and visibility-feedback modeling.</li>
+      </ul>
+    </div>
+  </details>
 
-- **Political Elites in the Attention Economy (ICWSM 2025)**  
-  A network- and causally informed analysis examining how visibility signals and audience responses shape political elites’ communication incentives.
+  <details class="research-card">
+    <summary>
+      <span class="research-card-title">Causal Inference in Socio-Technical Systems</span>
+    </summary>
+    <div class="research-card-body">
+      <p>
+      I develop and apply causal frameworks to uncover mechanisms driving online engagement and information flow, linking micro-level behavior with macro-level patterns of discourse.
+      </p>
+      <ul>
+        <li><strong>Toxic Politics & TikTok Engagement (HKS Misinformation Review, 2025)</strong>: A multimodal causal analysis investigating how toxicity interacts with algorithmic amplification and user engagement during the 2024 U.S. election.</li>
+        <li><strong>Political Narratives in Crisis Events (SBP-BRiMS 2023)</strong>: Narrative and temporal modeling of discourse evolution during the Russia–Ukraine conflict, examining how geopolitical events structure online conversations.</li>
+      </ul>
+    </div>
+  </details>
 
-- **Cross-Partisan Interaction Dynamics (ICWSM 2026 under review)**  
-  A longitudinal study of how engagement with cross-partisan posts affects future interactions, using matching-based causal inference and visibility-feedback modeling.
+  <details class="research-card">
+    <summary>
+      <span class="research-card-title">AI-Mediated Communication and LLM-Driven Interaction</span>
+    </summary>
+    <div class="research-card-body">
+      <p>
+      I examine how emerging AI systems—particularly large language models—reshape online communication, coordination, and public expression. My work explores how AI agents participate in, mediate, or influence discourse, and how human–AI interaction alters conversational norms and visibility dynamics.
+      </p>
+      <ul>
+        <li><strong>LLM-Mediated Dialogue and Conflict Resolution</strong>: Controlled experiments where LLMs intervene in polarized discussions—either as mediators or co-participants—to test how AI-generated suggestions influence tone, cooperation, and conversational outcomes.</li>
+        <li><strong>Agent-Based Simulations with LLM-Generated Communication Styles</strong>: Using LLMs to generate diverse rhetorical and affective communication patterns and embedding them in simulation environments to model how AI-augmented messages diffuse through networks and shape engagement and narrative evolution.</li>
+      </ul>
+    </div>
+  </details>
 
-### **2. Causal Inference in Socio-Technical Systems**
-I develop and apply causal frameworks to uncover mechanisms driving online engagement and information flow, linking micro-level behavior with macro-level patterns of discourse.
+</div>
 
-- **Toxic Politics & TikTok Engagement (HKS Misinformation Review, 2025)**  
-  A multimodal causal analysis investigating how toxicity interacts with algorithmic amplification and user engagement during the 2024 U.S. election.
-
-- **Political Narratives in Crisis Events (SBP-BRiMS 2023)**  
-  Narrative and temporal modeling of discourse evolution during the Russia–Ukraine conflict, examining how geopolitical events structure online conversations.
-
-### **3. AI-Mediated Communication and LLM-Driven Interaction**
-I examine how emerging AI systems—particularly large language models—reshape online communication, coordination, and public expression. My work explores how AI agents participate in, mediate, or influence discourse, and how human–AI interaction alters conversational norms and visibility dynamics in digital publics.
-
-Current research directions include:
-- **LLM-Mediated Dialogue and Conflict Resolution**  
-  Designing controlled experiments where LLMs intervene in polarized online discussions—either as mediators or as co-participants—to test how AI-generated suggestions influence tone, cooperation, and conversational outcomes.
-
-- **Agent-Based Simulations with LLM-Generated Communication Styles**  
-  Using LLMs to generate diverse rhetorical, affective, or strategic communication patterns and embedding them in simulation environments to model how AI-augmented messages diffuse through networks, shape engagement, and influence narrative evolution.
-
-These projects position LLMs as **active communicative agents**, revealing how AI participation reshapes discourse structures, user behavior, and the evolution of digital public spheres.
 
 
 
