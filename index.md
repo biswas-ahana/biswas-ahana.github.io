@@ -1,8 +1,9 @@
-<!-- ---
+<!-- 
+---
 layout: homepage
 ---
 
-## About Me
+## About Me -->
 
 <!-- I'm a third-year Information Science PhD student at the University of Pittsburgh working with [Prof. Yu-Ru Lin](http://www.yurulin.com/). My research explores how individuals interact and behave in digital spaces, focusing on what captures people’s attention online, how information spreads, and how communities form and evolve within cyber-social spaces. I study the role of network structures in shaping online behaviors and social dynamics, using Machine Learning and NLP methods to analyze large-scale datasets from platforms such as Twitter/X, Facebook, and TikTok. A key part of my work involves drawing causal inferences from observational data to uncover the underlying mechanisms driving these digital interactions. I am also deeply interested in the ethical dimensions of AI, particularly in addressing algorithmic bias and promoting fairness in socio-technical systems. Through my research, I aim to generate insights into how people engage in online communities while contributing to developing more responsible and interpretable AI systems. --> 
 
@@ -12,7 +13,7 @@ Please feel free to reach out! -->
 
 <!-- Prior to this, I worked as a Research Assistant at the [Third Space Research Group](https://thirdspace.toronto.edu/) at the University of Toronto under [Prof. Ishtiaque Ahmed](https://www.ishtiaque.net/) and [Prof. Shebuti Rayana](http://shebuti.com/) (SUNY Old Westbury) on Covid-19 Stigma Detection on Twitter. I also worked as a Research Assistant at the [AISys Lab](https://github.com/softsys4ai) at the University of South Carolina under [Prof. Pooyan Jamshidi](https://pooyanjamshidi.github.io/) on Causal Transfer Learning. --> 
 
-I am a PhD student in Information Science at the University of Pittsburgh, advised by [Prof. Yu-Ru Lin](http://www.yurulin.com/). My research investigates the structure and dynamics of online communication within large-scale, algorithmically mediated environments. I examine how platform architectures, ranking systems, and social feedback mechanisms shape patterns of visibility, interaction, and discourse, with a particular focus on political communication, toxicity, and audience responsiveness.
+<!-- I am a PhD student in Information Science at the University of Pittsburgh, advised by [Prof. Yu-Ru Lin](http://www.yurulin.com/). My research investigates the structure and dynamics of online communication within large-scale, algorithmically mediated environments. I examine how platform architectures, ranking systems, and social feedback mechanisms shape patterns of visibility, interaction, and discourse, with a particular focus on political communication, toxicity, and audience responsiveness.
 
 My work integrates computational social science with causal inference, natural language processing, and network analysis to study multimodal datasets from platforms such as TikTok, Twitter/X, and Facebook. I develop empirical approaches for identifying the mechanisms through which content gains traction and for understanding how user behavior and algorithmic curation interact to influence information flows and collective attention. This includes analyzing cross-partisan exchanges, amplification dynamics, and the emergence and evolution of narratives across different media ecosystems.
 
