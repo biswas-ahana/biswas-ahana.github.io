@@ -1,9 +1,9 @@
-<!-- 
+ 
 ---
 layout: homepage
 ---
 
-## About Me -->
+<!--## About Me -->
 
 <!-- I'm a third-year Information Science PhD student at the University of Pittsburgh working with [Prof. Yu-Ru Lin](http://www.yurulin.com/). My research explores how individuals interact and behave in digital spaces, focusing on what captures people’s attention online, how information spreads, and how communities form and evolve within cyber-social spaces. I study the role of network structures in shaping online behaviors and social dynamics, using Machine Learning and NLP methods to analyze large-scale datasets from platforms such as Twitter/X, Facebook, and TikTok. A key part of my work involves drawing causal inferences from observational data to uncover the underlying mechanisms driving these digital interactions. I am also deeply interested in the ethical dimensions of AI, particularly in addressing algorithmic bias and promoting fairness in socio-technical systems. Through my research, I aim to generate insights into how people engage in online communities while contributing to developing more responsible and interpretable AI systems. --> 
 
@@ -59,9 +59,7 @@ Computational Social Science, Network Analysis, Causal Inference, Responsible AI
 - **Biswas, A.**, Niven, T., Lin, YR. Political Narratives During the Russian Invasion of Ukraine. Social, Cultural, and Behavioral Modeling (SBP-BRiMS) 2023. [[DOI]](https://doi.org/10.1007/978-3-031-43129-6_4)
 - Mokhberi, M., **Biswas, A.**, Masud, Z., et. al. 2023. Development of a COVID-19 related anti-Asian tweet data set: Quantitative study. JMIR Formative Research. [[DOI]](https://formative.jmir.org/2023/1/e40403) -->
 
----
-layout: homepage
----
+
 
 ## About Me
 
