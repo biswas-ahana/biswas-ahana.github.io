@@ -29,29 +29,27 @@ Computational Social Science, Network Analysis, Causal Inference, Responsible AI
 
 ## News
 
-<ul>
-  <li><span style="color: red; font-weight: bold;">[Aug 2025]</span> Presented a poster at PolNet-PACSS, Boston!</li>
-  <li><span style="color: red; font-weight: bold;">[Jul 2025]</span> Our paper titled <em>'Toxic politics and TikTok engagement in the 2024 U.S. election'</em> has been accepted in Harvard Kennedy School Misinformation Review.</li>
-  <li><span style="color: red; font-weight: bold;">[Jul 2025]</span> Started summer internship at Phenom, developing human-understandable counterfactual explanations for AI-driven job matching models.</li>
-  <li><span style="color: red; font-weight: bold;">[Jun 2025]</span> Two oral presentations at ICWSM 2025 (Copenhagen) and Sunbelt 2025 (Paris)!</li>
-  <li><span style="color: red; font-weight: bold;">[Apr 2025]</span> Our findings on elite influence were featured in <a href="https://theconversation.com/some-politicians-who-share-harmful-information-are-rewarded-with-more-clicks-study-finds-252491" target="_blank">The Conversation</a>.</li>
-    <li><span style="color: red; font-weight: bold;">[Apr 2025]</span> Passed my Comprehensive Exam!</li>
-</ul>
+- <span style="color: red; font-weight: bold;">[Aug 2025]</span> Presented a poster at PolNet-PACSS, Boston!
+- <span style="color: red; font-weight: bold;">[Jul 2025]</span> Our paper titled 'Toxic politics and TikTok engagement in the 2024 U.S. election' has been accepted in Harvard Kennedy School Misinformation Review
+- <span style="color: red; font-weight: bold;">[Jul 2025]</span> Started summer internship at Phenom, developing human-understandable counterfactual explanations for AI-driven job matching models.
+- <span style="color: red; font-weight: bold;">[Jun 2025]</span> Two oral presentations at ICWSM 2025, Copenhagen and Sunbelt 2025, Paris!
+- <span style="color: red; font-weight: bold;">[Apr 2025]</span> Our latest findings on elite influence were featured in <a href="https://theconversation.com/some-politicians-who-share-harmful-information-are-rewarded-with-more-clicks-study-finds-252491">The Conversation</a>!
+- <span style="color: red; font-weight: bold;">[Apr 2025]</span> Passed my Comprehensive Exam!
 
-<!-- Collapsible Section -->
-<input type="checkbox" id="toggle-news" style="display:none;">
-<label for="toggle-news" id="news-button">Read more ▾</label>
+<details>
+  <summary style="margin-top: 5px; font-weight: 600; cursor: pointer;">
+    Read more ▾
+  </summary>
 
-<div id="more-news">
   <ul>
-  
-    <li><strong>[Apr 2025]</strong> Presented a talk on visibility dynamics at the IEEE Technical Symposium in Western Pennsylvania.</li>
-    <li><strong>[Jul 2024]</strong> Paper <em>'Political Elites in the Attention Economy'</em> accepted to ICWSM 2025!</li>
-    <li><strong>[Jul 2024]</strong> Attended the SICSS and IC2S2 conferences at the University of Pennsylvania.</li>
-    <li><strong>[Mar 2024]</strong> Won People's Choice Award in the 3 Minute-Thesis Competition at Pitt SCI.</li>
-    <li><strong>[Mar 2024]</strong> Passed my Preliminary Exams (with Distinction)!</li>
+    
+    <li><strong>[Apr 2025]</strong> Presented a talk on the visibility dynamics of political elites at the IEEE Technical Symposium in Western Pennsylvania.</li>
+    <li><strong>[Jul 2024]</strong> Our paper titled 'Political Elites in the Attention Economy: Visibility Over Civility and Credibility?' has been accepted to ICWSM 2025!</li>
+    <li><strong>[Jul 2024]</strong> Attended the Summer Institute in Computational Social Science (SICSS) and IC2S2 conference at the University of Pennsylvania.</li>
+    <li><strong>[Mar 2024]</strong> Won People’s Choice Award in 3 Minute-Thesis Competition organized by School of Computing and Information at Pitt.</li>
+    <li><strong>[Mar 2024]</strong> Passed my Preliminary exams (with Distinction)!</li>
   </ul>
-</div>
+</details>
 
   
 
