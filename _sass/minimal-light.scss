@@ -9,6 +9,14 @@ body {
   font-weight:400;
   margin:0
 }
+
+section {
+  width: calc(100% - 200px);
+}
+header {
+  width: 200px;
+}
+
 .box {
   border: 10px solid rebeccapurple;
   border-top: 2px solid rebeccapurple;
