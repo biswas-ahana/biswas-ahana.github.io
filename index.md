@@ -104,65 +104,34 @@ If you are interested in my work or would like to connect, feel free to reach ou
 <div class="pub-list">
 
   <div class="pub-item">
-    <div class="pub-title">
-      Toxic politics and TikTok engagement in the 2024 U.S. election
-    </div>
-    <div class="pub-authors">
-      <strong>Biswas, A.</strong>, Javadian Sabet, A., &amp; Lin, Y.-R.
-    </div>
-    <div class="pub-meta">
-      <em>Harvard Kennedy School Misinformation Review</em>, 2025.
-    </div>
-    <div class="pub-links">
-      <a href="https://doi.org/10.37016/mr-2020-181" class="pub-badge">DOI</a>
-      <a href="https://doi.org/10.7910/DVN/CHYOPR" class="pub-badge">Dataset</a>
-      <a href="https://github.com/picsolab/Toxic-Politics-and-TikTok-Engagement-in-the-2024-U.S.-Election" class="pub-badge">Code</a>
-    </div>
+    <strong>Toxic politics and TikTok engagement in the 2024 U.S. election.</strong>
+    Biswas, A., Javadian Sabet, A., &amp; Lin, Y.-R.
+    <em>Harvard Kennedy School Misinformation Review</em>, 2025.
+    <a href="https://doi.org/10.37016/mr-2020-181" class="pub-btn">DOI</a>
+    <a href="https://doi.org/10.7910/DVN/CHYOPR" class="pub-btn">Dataset</a>
+    <a href="https://github.com/picsolab/Toxic-Politics-and-TikTok-Engagement-in-the-2024-U.S.-Election" class="pub-btn">Code</a>
   </div>
 
   <div class="pub-item">
-    <div class="pub-title">
-      Political Elites in the Attention Economy: Visibility Over Civility and Credibility?
-    </div>
-    <div class="pub-authors">
-      <strong>Biswas, A.</strong>, Lin, Y.-R., Tai, Y.-C., &amp; Desmarais, B. A.
-    </div>
-    <div class="pub-meta">
-      <em>International Conference on Web and Social Media (ICWSM)</em>, 2025.
-    </div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2407.16014" class="pub-badge">Preprint</a>
-    </div>
+    <strong>Political Elites in the Attention Economy: Visibility Over Civility and Credibility?</strong>
+    Biswas, A., Lin, Y.-R., Tai, Y.-C., &amp; Desmarais, B. A.
+    <em>International Conference on Web and Social Media (ICWSM)</em>, 2025.
+    <a href="https://arxiv.org/abs/2407.16014" class="pub-btn">Preprint</a>
   </div>
 
   <div class="pub-item">
-    <div class="pub-title">
-      Political Narratives During the Russian Invasion of Ukraine
-    </div>
-    <div class="pub-authors">
-      <strong>Biswas, A.</strong>, Niven, T., &amp; Lin, Y.-R.
-    </div>
-    <div class="pub-meta">
-      <em>Social, Cultural, and Behavioral Modeling (SBP-BRiMS)</em>, 2023.
-    </div>
-    <div class="pub-links">
-      <a href="https://doi.org/10.1007/978-3-031-43129-6_4" class="pub-badge">DOI</a>
-    </div>
+    <strong>Political Narratives During the Russian Invasion of Ukraine.</strong>
+    Biswas, A., Niven, T., &amp; Lin, Y.-R.
+    <em>Social, Cultural, and Behavioral Modeling (SBP-BRiMS)</em>, 2023.
+    <a href="https://doi.org/10.1007/978-3-031-43129-6_4" class="pub-btn">DOI</a>
   </div>
 
   <div class="pub-item">
-    <div class="pub-title">
-      Development of a COVID-19 Related Anti-Asian Tweet Data Set: Quantitative Study
-    </div>
-    <div class="pub-authors">
-      Mokhberi, M., <strong>Biswas, A.</strong>, Masud, Z., et al.
-    </div>
-    <div class="pub-meta">
-      <em>JMIR Formative Research</em>, 2023.
-    </div>
-    <div class="pub-links">
-      <a href="https://formative.jmir.org/2023/1/e40403" class="pub-badge">DOI</a>
-    </div>
+    <strong>Development of a COVID-19 Related Anti-Asian Tweet Data Set: Quantitative Study.</strong>
+    Mokhberi, M., Biswas, A., Masud, Z., et al.
+    <em>JMIR Formative Research</em>, 2023.
+    <a href="https://formative.jmir.org/2023/1/e40403" class="pub-btn">DOI</a>
   </div>
 
 </div>
+
