@@ -38,19 +38,17 @@ Computational Social Science, Network Analysis, Causal Inference, Responsible AI
 
 <details>
   <summary style="margin-top: 5px; font-weight: 600; cursor: pointer;">
-    Read more 
+    Read more
   </summary>
 
   <ul>
-    
-  - <strong>[Apr 2025]</strong> Presented a talk on the visibility dynamics of political elites at the IEEE Technical Symposium in Western Pennsylvania.
-  - <strong>[Jul 2024]</strong> Our paper titled 'Political Elites in the Attention Economy: Visibility Over Civility and Credibility?' has been accepted to ICWSM 2025!
-  - <strong>[Jul 2024]</strong> Attended the Summer Institute in Computational Social Science (SICSS) and IC2S2 conference at the University of Pennsylvania.
-  - <strong>[Mar 2024]</strong> Won People’s Choice Award in 3 Minute-Thesis Competition organized by School of Computing and Information at Pitt.
-  - <strong>[Mar 2024]</strong> Passed my Preliminary exams (with Distinction)!
+    <li><strong>[Apr 2025]</strong> Presented a talk on the visibility dynamics of political elites at the IEEE Technical Symposium in Western Pennsylvania.</li>
+    <li><strong>[Jul 2024]</strong> Our paper titled 'Political Elites in the Attention Economy: Visibility Over Civility and Credibility?' has been accepted to ICWSM 2025!</li>
+    <li><strong>[Jul 2024]</strong> Attended the Summer Institute in Computational Social Science (SICSS) and IC2S2 conference at the University of Pennsylvania.</li>
+    <li><strong>[Mar 2024]</strong> Won People’s Choice Award in 3 Minute-Thesis Competition organized by School of Computing and Information at Pitt.</li>
+    <li><strong>[Mar 2024]</strong> Passed my Preliminary exams (with Distinction)!</li>
   </ul>
 </details>
-
   
 
 ## Publications
