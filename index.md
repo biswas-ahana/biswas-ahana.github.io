@@ -17,12 +17,7 @@ If you are interested in my work or would like to connect, feel free to reach ou
 
 
 
-## Research Interests
-Computational Social Science, Online Discourse, Causal Inference, NLP/LLMs, Network Analysis, Algorithmic Mediation
-
-
-
-## Research
+## Research Areas
 
 <div class="research-cards">
 
