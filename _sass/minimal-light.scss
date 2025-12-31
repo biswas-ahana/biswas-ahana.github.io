@@ -653,27 +653,33 @@ footer {
    keep sidebar comfortably wide)
    ================================================ */
 
+/* ===================================================
+   Desktop layout override: larger sidebar + wider gap
+   =================================================== */
+
 @media screen and (min-width: 961px) {
 
-  /* Wider content wrapper */
+  /* Wider overall page content */
   .wrapper {
     width: 100%;
-    max-width: 1250px;   /* Increase or decrease to taste */
+    max-width: 1300px;   /* increase this if you want more horizontal spread */
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 24px;
   }
 
-  /* Restore a comfortable left sidebar width */
+  /* Larger, more comfortable left panel */
   header {
-    width: 240px;        /* Try 240–260px for optimal feel */
+    width: 280px;        /* Increase sidebar width (try 280–300px) */
   }
 
-  /* Expand main content area to fill space */
+  /* Increase spacing BETWEEN left and right panels */
   section {
     float: right;
-    width: calc(100% - 260px);  /* Sidebar width + spacing */
+    width: calc(100% - 320px);  /* 280px sidebar + 40px gap */
     padding-top: 4.0em;
     padding-bottom: 50px;
+    margin-left: 40px;  /* explicit space between sidebar + content */
   }
 }
+
 
