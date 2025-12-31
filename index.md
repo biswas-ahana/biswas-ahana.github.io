@@ -97,14 +97,13 @@ If you are interested in my work or would like to connect, feel free to reach ou
 
 
 
+
+
 ## Publications
 
 - **Biswas, A.**, Javadian Sabet, A., & Lin, Y.-R. (2025). Toxic politics and TikTok engagement in the 2024 U.S. election. *Harvard Kennedy School Misinformation Review*. [[DOI]](https://doi.org/10.37016/mr-2020-181) [[Dataset]](https://doi.org/10.7910/DVN/CHYOPR) [[Code]](https://github.com/picsolab/Toxic-Politics-and-TikTok-Engagement-in-the-2024-U.S.-Election)
-
 - **Biswas, A.**, Lin, Y.-R., Tai, Y.-C., Desmarais, B. A. (2025). Political Elites in the Attention Economy: Visibility Over Civility and Credibility? *ICWSM 2025*. [[DOI]](https://arxiv.org/abs/2407.16014)
-
 - **Biswas, A.**, Niven, T., Lin, Y.-R. (2023). Political Narratives During the Russian Invasion of Ukraine. *SBP-BRiMS 2023*. [[DOI]](https://doi.org/10.1007/978-3-031-43129-6_4)
-
 - Mokhberi, M., **Biswas, A.**, Masud, Z., et al. (2023). Development of a COVID-19 Anti-Asian Tweet Dataset. *JMIR Formative Research*. [[DOI]](https://formative.jmir.org/2023/1/e40403)
 
 
