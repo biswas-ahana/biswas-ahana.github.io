@@ -783,27 +783,32 @@ footer {
    Sidebar: research interests block
    ================================ */
 
-.sidebar-section {
-  margin-top: 1.5em;
+.sidebar-section.sidebar-research-interests {
+  margin-top: 1.6em;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 210px;        /* keeps it visually aligned under the text */
+  text-align: left;        /* override header's center alignment */
 }
 
 .sidebar-heading {
-  font-size: 0.95em;
+  font-size: 0.9em;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.08em;
   margin-bottom: 0.4em;
   color: #043361;
 }
 
 .sidebar-list {
-  list-style: none;
-  padding-left: 0;
+  list-style: disc;
+  padding-left: 18px;       /* indentation for bullets */
   margin: 0;
   font-size: 0.9em;
+  line-height: 1.4;
 }
 
 .sidebar-list li {
-  margin-bottom: 2px;
+  margin-bottom: 3px;
 }
 
 @media (prefers-color-scheme: dark) {
