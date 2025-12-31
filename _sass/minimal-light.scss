@@ -785,19 +785,29 @@ footer {
 
 /* Inline research interests list */
 .sidebar-inline-list {
-  font-size: 2.08rem;             /* slightly larger */
-  font-weight: 700;               /* bold */
-  color: #b30000;                 /* deep academic red */
-  line-height: 1.45;
+  font-size: 1.25rem;        
+  font-weight: 700;
+  color: #b30000 !important;   /* FORCE red */
+  line-height: 1.5;
   text-align: left;
-  max-width: 240px;
+  max-width: 260px;
   margin: 1.2em auto 0 auto;
+}
+
+/* Override link/anchor behavior inside the block */
+.sidebar-inline-list a {
+  color: #b30000 !important;
+  text-decoration: none !important;
 }
 
 /* dark mode */
 @media (prefers-color-scheme: dark) {
   .sidebar-inline-list {
-    color: #ff4d4d;               /* brighter red for dark mode */
+    color: #ff4d4d !important;
+  }
+  .sidebar-inline-list a {
+    color: #ff4d4d !important;
   }
 }
+
 
