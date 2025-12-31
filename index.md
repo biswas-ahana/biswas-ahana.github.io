@@ -37,7 +37,7 @@ Computational Social Science, Network Analysis, Causal Inference, Responsible AI
 - <span style="color: red; font-weight: bold;">[Apr 2025]</span> Passed my Comprehensive Exam!
 
 <details>
-  <summary style="margin-top: 8px; font-weight: 800; cursor: pointer;">
+  <summary style="margin-top: 5px; font-weight: 600; cursor: pointer;">
     Read more 
   </summary>
 
