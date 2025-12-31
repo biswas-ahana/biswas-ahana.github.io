@@ -675,10 +675,10 @@ footer {
   /* Increase spacing BETWEEN left and right panels */
   section {
     float: right;
-    width: calc(100% - 320px);  /* 280px sidebar + 40px gap */
+    width: calc(100% - 360px);  /* 280px sidebar + 80px gap */
     padding-top: 4.0em;
     padding-bottom: 50px;
-    margin-left: 40px;  /* explicit space between sidebar + content */
+    margin-left: 80px;  /* explicit space between sidebar + content */
   }
 }
 
