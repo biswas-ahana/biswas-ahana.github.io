@@ -72,7 +72,7 @@ If you are interested in my work or would like to connect, feel free to reach ou
 
 
 
-## News
+## Updates
 
 - <span style="color: red; font-weight: bold;">[Aug 2025]</span> Presented a poster at PolNet-PACSS, Boston!
 - <span style="color: red; font-weight: bold;">[Jul 2025]</span> Our paper _Toxic politics and TikTok engagement in the 2024 U.S. election_ accepted in HKS Misinformation Review.
