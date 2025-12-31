@@ -10,12 +10,6 @@ body {
   margin:0
 }
 
-section {
-  width: calc(100% - 200px);
-}
-header {
-  width: 200px;
-}
 
 .box {
   border: 10px solid rebeccapurple;
@@ -649,4 +643,32 @@ footer {
   content: "";
 }
 
+/* ===========================
+   Layout override for desktop
+   Reduce side blank space
+   =========================== */
+
+@media screen and (min-width: 961px) {
+
+  /* Make the overall content area wider and close to full width */
+  .wrapper {
+    width: 100%;
+    max-width: 1200px;   /* tweak: 1100–1300 if you want narrower/wider */
+    margin: 0 auto;
+    padding: 0 16px;     /* small side padding so text isn’t glued to edge */
+  }
+
+  /* Slightly narrower sidebar so content gets more room */
+  header {
+    width: 200px;        /* was 232px */
+  }
+
+  /* Main content takes everything that’s not sidebar */
+  section {
+    float: right;
+    width: calc(100% - 220px);  /* sidebar width + a bit of gap */
+    padding-top: 4.0em;
+    padding-bottom: 50px;
+  }
+}
 
