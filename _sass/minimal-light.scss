@@ -787,7 +787,7 @@ footer {
 .sidebar-inline-list {
   font-size: 1.8rem !important;        
   font-weight: 800;
-  color: #b30000 !important;   /* FORCE red */
+  color: #000000 !important;   /* FORCE red */
   line-height: 1.8;
   text-align: left;
   max-width: 300px;
@@ -796,7 +796,7 @@ footer {
 
 /* Override link/anchor behavior inside the block */
 .sidebar-inline-list a {
-  color: #b30000 !important;
+  color: #000000 !important;
   text-decoration: none !important;
 }
 
