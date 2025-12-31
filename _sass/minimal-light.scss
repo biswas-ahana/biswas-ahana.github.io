@@ -787,24 +787,24 @@ footer {
   margin-top: 1.6em;
   margin-left: auto;
   margin-right: auto;
-  max-width: 210px;        /* keeps it visually aligned under the text */
-  text-align: left;        /* override header's center alignment */
+  max-width: 220px;        /* visually aligned under affiliation */
+  text-align: left;        /* fixes centering issue from header */
 }
 
 .sidebar-heading {
-  font-size: 0.9em;
+  font-size: 0.95em;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.07em;
   margin-bottom: 0.4em;
   color: #043361;
 }
 
 .sidebar-list {
   list-style: disc;
-  padding-left: 18px;       /* indentation for bullets */
+  padding-left: 18px;
   margin: 0;
-  font-size: 0.9em;
-  line-height: 1.4;
+  font-size: 0.92em;
+  line-height: 1.45;
 }
 
 .sidebar-list li {
@@ -816,3 +816,4 @@ footer {
     color: rgb(62, 183, 240);
   }
 }
+
