@@ -785,17 +785,19 @@ footer {
 
 /* Inline research interests list */
 .sidebar-inline-list {
-  font-size: 1.05rem;      /* increase font size */
+  font-size: 2.08rem;             /* slightly larger */
+  font-weight: 700;               /* bold */
+  color: #b30000;                 /* deep academic red */
   line-height: 1.45;
   text-align: left;
-  max-width: 230px;
+  max-width: 240px;
   margin: 1.2em auto 0 auto;
-  color: #043361;
 }
 
 /* dark mode */
 @media (prefers-color-scheme: dark) {
   .sidebar-inline-list {
-    color: rgb(62, 183, 240);
+    color: #ff4d4d;               /* brighter red for dark mode */
   }
 }
+
