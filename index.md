@@ -116,7 +116,7 @@ If you are interested in my work or would like to connect, feel free to reach ou
     <strong>Political Elites in the Attention Economy: Visibility Over Civility and Credibility?</strong>
     Biswas, A., Lin, Y.-R., Tai, Y.-C., &amp; Desmarais, B. A.
     <em>International Conference on Web and Social Media (ICWSM)</em>, 2025.
-    <a href="https://arxiv.org/abs/2407.16014" class="pub-btn">Preprint</a>
+    <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/35814/37968" class="pub-btn">DOI</a>
   </div>
 
   <div class="pub-item">
