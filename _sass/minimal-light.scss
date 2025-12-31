@@ -648,25 +648,30 @@ footer {
    Reduce side blank space
    =========================== */
 
+/* ================================================
+   Layout override for desktop (reduce side margins,
+   keep sidebar comfortably wide)
+   ================================================ */
+
 @media screen and (min-width: 961px) {
 
-  /* Make the overall content area wider and close to full width */
+  /* Wider content wrapper */
   .wrapper {
     width: 100%;
-    max-width: 1100px;   /* tweak: 1100–1300 if you want narrower/wider */
+    max-width: 1250px;   /* Increase or decrease to taste */
     margin: 0 auto;
-    padding: 0 18px;     /* small side padding so text isn’t glued to edge */
+    padding: 0 20px;
   }
 
-  /* Slightly narrower sidebar so content gets more room */
+  /* Restore a comfortable left sidebar width */
   header {
-    width: 232px;        /* was 232px */
+    width: 240px;        /* Try 240–260px for optimal feel */
   }
 
-  /* Main content takes everything that’s not sidebar */
+  /* Expand main content area to fill space */
   section {
     float: right;
-    width: calc(100% - 232px);  /* sidebar width + a bit of gap */
+    width: calc(100% - 260px);  /* Sidebar width + spacing */
     padding-top: 4.0em;
     padding-bottom: 50px;
   }
