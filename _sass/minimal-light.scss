@@ -820,90 +820,66 @@ section h2 {
 }
 
 /* ============================
-   Publications list styling
+   Compact inline publication buttons
    ============================ */
 
 .pub-list {
   display: flex;
   flex-direction: column;
-  gap: 16px;
-  margin-top: 8px;
+  gap: 10px;
 }
 
 .pub-item {
-  padding: 10px 12px;
+  font-size: 0.98rem;
+  line-height: 1.55;
+  padding-left: 10px;
   border-left: 3px solid #043361;
-  background-color: #fafafa;
-  border-radius: 4px;
 }
 
-.pub-title {
+.pub-item strong {
   font-weight: 600;
-  font-size: 1.0rem;
-  margin-bottom: 3px;
-  color: #222;
 }
 
-.pub-authors {
-  font-size: 0.95rem;
-  margin-bottom: 2px;
-}
-
-.pub-meta {
-  font-size: 0.9rem;
+.pub-item em {
   font-style: italic;
-  color: #555;
-  margin-bottom: 4px;
 }
 
-.pub-links {
-  margin-top: 4px;
-}
-
-.pub-badge {
+/* Button-style links */
+.pub-btn {
   display: inline-block;
-  font-size: 0.78rem;
-  padding: 2px 8px;
-  margin-right: 6px;
+  margin-left: 6px;
   margin-top: 2px;
-  border-radius: 999px;
-  border: 1px solid #cccccc;
+  padding: 2px 8px;
+  font-size: 0.75rem;
+  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  text-decoration: none;
-  color: #043361;
-  background-color: #ffffff;
+  border-radius: 4px;
+  border: 1px solid #043361;
+  color: #043361 !important;
+  background-color: transparent;
+  text-decoration: none !important;
 }
 
-.pub-badge:hover {
-  border-color: #043361;
-  background-color: #e8f0ff;
+.pub-btn:hover {
+  background-color: #043361;
+  color: #ffffff !important;
 }
 
-/* Dark mode adjustments */
+/* Dark mode */
 @media (prefers-color-scheme: dark) {
   .pub-item {
-    background-color: #262736;
     border-left-color: rgb(62, 183, 240);
   }
 
-  .pub-title {
-    color: #f0f0f5;
-  }
-
-  .pub-meta {
-    color: #b0b2c5;
-  }
-
-  .pub-badge {
-    border-color: #4c4f68;
-    color: rgb(62, 183, 240);
-    background-color: #20212b;
-  }
-
-  .pub-badge:hover {
+  .pub-btn {
     border-color: rgb(62, 183, 240);
-    background-color: #2f3143;
+    color: rgb(62, 183, 240) !important;
+  }
+
+  .pub-btn:hover {
+    background-color: rgb(62, 183, 240);
+    color: #20212b !important;
   }
 }
 
