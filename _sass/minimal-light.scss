@@ -887,14 +887,16 @@ section h2 {
 .pub-coverage {
   margin-left: 16px;
   margin-top: -4px;
-  margin-bottom: 6px;
-  font-size: 1rem;
-  color: #666;
+  margin-bottom: 8px;
+  font-size: 0.98rem;          /* increased from 0.85rem */
+  line-height: 1.45;
+  color: #555;
 }
 
 .pub-coverage a {
   color: #555;
   text-decoration: none;
+  font-weight: 500;            /* slightly stronger for visibility */
 }
 
 .pub-coverage a:hover {
@@ -908,7 +910,7 @@ section h2 {
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   .pub-coverage {
-    color: #b0b2c5;
+    color: #cfd2ff;
   }
 
   .pub-coverage a {
