@@ -893,18 +893,18 @@ section h2 {
   color: #444;
 }
 
-/* Blue links for coverage outlets */
+/* Blue links for coverage outlets — not bold */
 .pub-coverage a {
-  color: #1a73e8;              /* academic blue */
+  color: #1a73e8;              /* clean academic blue */
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 400;            /* explicitly normal */
 }
 
 .pub-coverage a:hover {
   text-decoration: underline;
 }
 
-/* Keep italics for outlet names */
+/* Italicize outlet names only */
 .pub-coverage em {
   font-style: italic;
 }
@@ -916,6 +916,7 @@ section h2 {
   }
 
   .pub-coverage a {
-    color: #7ab4ff;            /* softer blue for dark backgrounds */
+    color: #7ab4ff;
+    font-weight: 400;
   }
 }
