@@ -888,21 +888,23 @@ section h2 {
   margin-left: 16px;
   margin-top: -2px;
   margin-bottom: 10px;
-  font-size: 1.08rem;          /* noticeably larger */
+  font-size: 1.08rem;
   line-height: 1.5;
-  color: #555;
+  color: #444;
 }
 
+/* Blue links for coverage outlets */
 .pub-coverage a {
-  color: #555;
+  color: #1a73e8;              /* academic blue */
   text-decoration: none;
-  font-weight: 600;            /* stronger emphasis on outlets */
+  font-weight: 600;
 }
 
 .pub-coverage a:hover {
   text-decoration: underline;
 }
 
+/* Keep italics for outlet names */
 .pub-coverage em {
   font-style: italic;
 }
@@ -914,6 +916,6 @@ section h2 {
   }
 
   .pub-coverage a {
-    color: #e0e3ff;
+    color: #7ab4ff;            /* softer blue for dark backgrounds */
   }
 }
