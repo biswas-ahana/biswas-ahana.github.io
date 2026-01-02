@@ -5,7 +5,7 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year PhD student in Information Science at the University of Pittsburgh, advised by [Prof. Yu-Ru Lin](http://www.yurulin.com/). My research investigates the structure and dynamics of online communication in large-scale, algorithmically mediated environments. I study how visibility signals, ranking systems, and social feedback mechanisms shape political discourse, toxicity, and audience responsiveness across platforms such as TikTok, Twitter/X, and Facebook.
+I am a fourth-year PhD student in Information Science at the University of Pittsburgh, [PICSO Lab](https://picsolab.github.io/), advised by [Prof. Yu-Ru Lin](http://www.yurulin.com/). My research investigates the structure and dynamics of online communication in large-scale, algorithmically mediated environments. I study how visibility signals, ranking systems, and social feedback mechanisms shape political discourse, toxicity, and audience responsiveness across platforms such as TikTok, Twitter/X, and Facebook.
 
 My work integrates computational social science, causal inference, natural language processing, and network analysis to understand how content gains traction and how user behavior interacts with algorithmic curation. I analyze cross-partisan exchanges, amplification pathways, and the emergence and evolution of narratives, with the goal of uncovering mechanisms that explain collective attention and communicative behavior online.
 
