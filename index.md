@@ -112,6 +112,15 @@ If you are interested in my work or would like to connect, feel free to reach ou
     <a href="https://doi.org/10.7910/DVN/CHYOPR" class="pub-btn">Dataset</a>
     <a href="https://github.com/picsolab/Toxic-Politics-and-TikTok-Engagement-in-the-2024-U.S.-Election" class="pub-btn">Code</a>
   </div>
+  <div class="pub-coverage">
+  • Coverage in
+  <a href="https://en.wikipedia.org/?curid=74954639" target="_blank" rel="noopener">
+    <em>Wikipedia</em>
+  </a>,
+  <a href="https://www.forbes.com/sites/civicnation/2025/12/03/tiktok-and-democracy-the-importance-of-fact-checking-information/" target="_blank" rel="noopener">
+    <em>Forbes</em>
+  </a>
+</div>
 
   <div class="pub-item">
     <strong>Political Elites in the Attention Economy: Visibility Over Civility and Credibility?</strong>
@@ -119,6 +128,12 @@ If you are interested in my work or would like to connect, feel free to reach ou
     <em>International Conference on Web and Social Media (ICWSM)</em>, 2025.
     <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/35814/37968" class="pub-btn">DOI</a>
   </div>
+  <div class="pub-coverage">
+  • Coverage in
+  <a href="https://theconversation.com/some-politicians-who-share-harmful-information-are-rewarded-with-more-clicks-study-finds-252491" target="_blank" rel="noopener">
+    <em>The Conversation</em>
+  </a>
+</div>
 
   <div class="pub-item">
     <strong>Political Narratives During the Russian Invasion of Ukraine.</strong>
