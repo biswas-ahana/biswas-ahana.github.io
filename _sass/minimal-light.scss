@@ -886,17 +886,17 @@ section h2 {
 /* Media / public coverage line under publications */
 .pub-coverage {
   margin-left: 16px;
-  margin-top: -4px;
-  margin-bottom: 8px;
-  font-size: 0.98rem;          /* increased from 0.85rem */
-  line-height: 1.45;
-  color: #555;
+  margin-top: -2px;
+  margin-bottom: 10px;
+  font-size: 1.08rem;          /* noticeably larger */
+  line-height: 1.5;
+  color: #444;
 }
 
 .pub-coverage a {
-  color: #555;
+  color: #444;
   text-decoration: none;
-  font-weight: 500;            /* slightly stronger for visibility */
+  font-weight: 600;            /* stronger emphasis on outlets */
 }
 
 .pub-coverage a:hover {
@@ -910,10 +910,10 @@ section h2 {
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   .pub-coverage {
-    color: #cfd2ff;
+    color: #e0e3ff;
   }
 
   .pub-coverage a {
-    color: #cfd2ff;
+    color: #e0e3ff;
   }
 }
