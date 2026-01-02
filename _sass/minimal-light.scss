@@ -883,3 +883,23 @@ section h2 {
   }
 }
 
+/* Media / public coverage line under publications */
+.pub-coverage {
+  margin-left: 16px;         /* indent relative to publication */
+  margin-top: -4px;          /* tuck it closer to the pub */
+  margin-bottom: 6px;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.pub-coverage em {
+  font-style: italic;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .pub-coverage {
+    color: #b0b2c5;
+  }
+}
+
