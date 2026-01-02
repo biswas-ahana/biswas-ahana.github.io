@@ -885,11 +885,20 @@ section h2 {
 
 /* Media / public coverage line under publications */
 .pub-coverage {
-  margin-left: 16px;         /* indent relative to publication */
-  margin-top: -4px;          /* tuck it closer to the pub */
+  margin-left: 16px;
+  margin-top: -4px;
   margin-bottom: 6px;
   font-size: 0.85rem;
   color: #666;
+}
+
+.pub-coverage a {
+  color: #555;
+  text-decoration: none;
+}
+
+.pub-coverage a:hover {
+  text-decoration: underline;
 }
 
 .pub-coverage em {
@@ -901,5 +910,8 @@ section h2 {
   .pub-coverage {
     color: #b0b2c5;
   }
-}
 
+  .pub-coverage a {
+    color: #cfd2ff;
+  }
+}
