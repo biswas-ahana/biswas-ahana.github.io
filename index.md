@@ -31,7 +31,7 @@ If you are interested in my work or would like to connect, feel free to reach ou
       </p>
       <ul>
         <li><strong>Political Elites in the Attention Economy (ICWSM 2025)</strong>: A network- and causally informed analysis examining how visibility signals and audience responses shape political elites’ communication incentives.</li>
-        <li><strong>Cross-Partisan Interaction Dynamics (ICWSM 2026 under review)</strong>: A longitudinal study of how engagement with cross-partisan posts affects future interactions, using matching-based causal inference and visibility-feedback modeling.</li>
+        <li><strong>Cross-Partisan Interaction Dynamics (ICWSM 2026)</strong>: A longitudinal study of how engagement with cross-partisan posts affects future interactions, using matching-based causal inference and visibility-feedback modeling.</li>
       </ul>
     </div>
   </details>
