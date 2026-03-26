@@ -74,7 +74,8 @@ If you are interested in my work or would like to connect, feel free to reach ou
 
 ## Updates
 
-- <span style="color: red; font-weight: bold;">[Mar 2026]</span> I got accepted at the Santa Fe Institute (SFI) Graduate Workshop for Computational Social Science!
+- <span style="color: red; font-weight: bold;">[Mar 2026]</span> Our paper _From Attention to Dialogue: Does Audience Engagement Reinforce Constructive Cross-Party Communication?_ got accepted in ICWSM 2026.
+- <span style="color: red; font-weight: bold;">[Mar 2026]</span> Got accepted at the Santa Fe Institute (SFI) Graduate Workshop for Computational Social Science!
 - <span style="color: red; font-weight: bold;">[Dec 2025]</span> Our work on toxic politics in TikTok was mentioned in <a href="https://www.forbes.com/sites/civicnation/2025/12/03/tiktok-and-democracy-the-importance-of-fact-checking-information/">Forbes</a>.
 - <span style="color: red; font-weight: bold;">[Aug 2025]</span> Presented a poster at PolNet-PACSS, Boston!
 - <span style="color: red; font-weight: bold;">[Jul 2025]</span> Our paper _Toxic politics and TikTok engagement in the 2024 U.S. election_ accepted in HKS Misinformation Review.
@@ -105,6 +106,13 @@ If you are interested in my work or would like to connect, feel free to reach ou
 
 <div class="pub-list">
 
+  <div class="pub-item">
+    <strong>From Attention to Dialogue: Does Audience Engagement Reinforce Constructive Cross-Party Communication?</strong>
+    Biswas, A., Lin, Y.-R..
+    <em>International Conference on Web and Social Media (ICWSM)</em>, 2026.
+    <a href="https://arxiv.org/abs/2603.20549" class="pub-btn">DOI</a>
+  </div>
+  
   <div class="pub-item">
     <strong>Toxic politics and TikTok engagement in the 2024 U.S. election.</strong>
     Biswas, A., Javadian Sabet, A., &amp; Lin, Y.-R.
