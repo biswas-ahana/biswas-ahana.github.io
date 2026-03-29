@@ -129,6 +129,9 @@ If you are interested in my work or would like to connect, feel free to reach ou
   </a>,
   <a href="https://www.forbes.com/sites/civicnation/2025/12/03/tiktok-and-democracy-the-importance-of-fact-checking-information/" target="_blank" rel="noopener">
     <em>Forbes</em>
+  </a>,
+  <a href="https://www.sci.pitt.edu/news/social-media-toxic-discourse-sci-researchers-connections-new-study/" target="_blank" rel="noopener">
+    <em>Pitt News</em>
   </a>
 </div>
 
