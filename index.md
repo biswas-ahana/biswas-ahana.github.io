@@ -11,7 +11,7 @@ My work integrates computational social science, causal inference, natural langu
 
 More broadly, I aim to link micro-level user interactions with macro-level patterns of discourse to advance theoretical understanding of socio-technical systems. I am also developing new lines of research on how AI-mediated interfaces and LLM-driven communication tools reshape participation, conversational norms, and public expression.
 
-My research has been published in venues such as **ICWSM** and the **Harvard Kennedy School Misinformation Review**, and presented at conferences and workshops across computational social science, network science, and human–AI communication.
+My research has been published in venues such as **ICWSM** and the **Harvard Kennedy School Misinformation Review**, and presented at conferences (e.g., IC2S2, PACSS, NetSci) and workshops across computational social science, network science, and human–AI communication.
 
 If you are interested in my work or would like to connect, feel free to reach out!
 
@@ -74,8 +74,9 @@ If you are interested in my work or would like to connect, feel free to reach ou
 
 ## Updates
 
+- <span style="color: red; font-weight: bold;">[June 2026]</span> Joining Amazon as an Applied Scientist intern! Say hi if you're around Seattle!
+- <span style="color: red; font-weight: bold;">[May 2026]</span> Attending the Santa Fe Institute (SFI) Graduate Workshop for Computational Social Science! Say hi if you're around!
 - <span style="color: red; font-weight: bold;">[Mar 2026]</span> Our paper _From Attention to Dialogue: Does Audience Engagement Reinforce Constructive Cross-Party Communication?_ was accepted in ICWSM 2026.
-- <span style="color: red; font-weight: bold;">[Mar 2026]</span> Got accepted at the Santa Fe Institute (SFI) Graduate Workshop for Computational Social Science!
 - <span style="color: red; font-weight: bold;">[Mar 2026]</span> Abstract accepted for a Contributed Talk at NetSci 2026.
 - <span style="color: red; font-weight: bold;">[Dec 2025]</span> Our work on toxic politics in TikTok was mentioned in <a href="https://www.forbes.com/sites/civicnation/2025/12/03/tiktok-and-democracy-the-importance-of-fact-checking-information/">Forbes</a>.
 - <span style="color: red; font-weight: bold;">[Aug 2025]</span> Presented a poster at PolNet-PACSS, Boston!
@@ -83,7 +84,7 @@ If you are interested in my work or would like to connect, feel free to reach ou
 - <span style="color: red; font-weight: bold;">[Jul 2025]</span> Started summer internship at Phenom, working on interpretable AI explanations for matching models.
 - <span style="color: red; font-weight: bold;">[Jun 2025]</span> Two oral presentations at ICWSM 2025 (Copenhagen) and Sunbelt 2025 (Paris)!
 - <span style="color: red; font-weight: bold;">[Apr 2025]</span> Our findings on elite influence featured in <a href="https://theconversation.com/some-politicians-who-share-harmful-information-are-rewarded-with-more-clicks-study-finds-252491">The Conversation</a>.
-- <span style="color: red; font-weight: bold;">[Apr 2025]</span> Passed my Comprehensive Exam!
+
 
 <details>
   <summary style="margin-top: 5px; font-weight: 600; cursor: pointer;">
@@ -91,6 +92,7 @@ If you are interested in my work or would like to connect, feel free to reach ou
   </summary>
 
   <ul>
+    <li><strong>[Apr 2025]</strong> Passed my Comprehensive Exam!</li>
     <li><strong>[Apr 2025]</strong> Presented a talk on elite visibility dynamics at the IEEE Technical Symposium in Western Pennsylvania.</li>
     <li><strong>[Jul 2024]</strong> Paper accepted to ICWSM 2025: <em>Political Elites in the Attention Economy: Visibility Over Civility and Credibility?</em></li>
     <li><strong>[Jul 2024]</strong> Attended SICSS and IC2S2 at the University of Pennsylvania.</li>
