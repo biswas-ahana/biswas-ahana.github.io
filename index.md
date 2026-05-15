@@ -76,6 +76,7 @@ If you are interested in my work or would like to connect, feel free to reach ou
 
 - <span style="color: red; font-weight: bold;">[June 2026]</span> Joining Amazon as an Applied Scientist intern! Say hi if you're around Seattle!
 - <span style="color: red; font-weight: bold;">[May 2026]</span> Attending the Santa Fe Institute (SFI) Graduate Workshop for Computational Social Science! Say hi if you're around!
+- <span style="color: red; font-weight: bold;">[Apr 2026]</span> 3 submissions accepted in IC2S2, 2 parallel talks + 1 poster!
 - <span style="color: red; font-weight: bold;">[Mar 2026]</span> Our paper _From Attention to Dialogue: Does Audience Engagement Reinforce Constructive Cross-Party Communication?_ was accepted in ICWSM 2026.
 - <span style="color: red; font-weight: bold;">[Mar 2026]</span> Abstract accepted for a Contributed Talk at NetSci 2026.
 - <span style="color: red; font-weight: bold;">[Dec 2025]</span> Our work on toxic politics in TikTok was mentioned in <a href="https://www.forbes.com/sites/civicnation/2025/12/03/tiktok-and-democracy-the-importance-of-fact-checking-information/">Forbes</a>.
