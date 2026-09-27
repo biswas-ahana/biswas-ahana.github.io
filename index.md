@@ -1,7 +1,17 @@
 ---
 layout: homepage
 ---
+<style>
+  h2 {
+    margin-top: 3.5rem;
+    margin-bottom: 1.5rem;
+  }
 
+  h3 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+</style>
 
 ## About Me
 
