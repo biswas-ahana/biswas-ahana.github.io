@@ -24,7 +24,7 @@ Methodologically, I combine large-scale behavioral data, causal inference, NLP a
 If you are interested in my work or would like to connect, feel free to reach out!
 
 <p style="color: red; font-weight: 600;">
-  On the 2026–27 job market for postdoctoral and industry research positions in human–AI interaction, responsible AI, and computational social science!
+  On the 2026–27 job market for postdoctoral and industry research positions in human–AI interaction, complex systems, and computational social science!
 </p>
 
 ## Research Areas
