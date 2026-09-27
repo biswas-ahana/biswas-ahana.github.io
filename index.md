@@ -9,9 +9,7 @@ I am a fourth-year PhD student in Information Science at the University of Pitts
 
 My dissertation examines **verification in real-world LLM information seeking**: what verification support AI systems provide, how users respond to epistemic cues such as sources and uncertainty, and how people decide when checking an AI response is worth the effort. More broadly, I study feedback between people and computational systems, including how algorithmic environments shape attention, engagement, and subsequent behavior.
 
-Methodologically, I combine **large-scale behavioral data, causal inference, NLP and LLM-based measurement, network analysis, computational modeling, mixed-effects and longitudinal analysis, and qualitative research**.
-
-My research has been published in venues including **ICWSM**, **Computational Social Science (CSS)**, and the **Harvard Kennedy School Misinformation Review**, and presented at conferences and workshops across human–AI interaction, computational social science, network science, and complex systems.
+Methodologically, I combine large-scale behavioral data, causal inference, NLP and LLM-based measurement, network analysis, computational modeling, mixed-effects and longitudinal analysis, and qualitative research. My research has been published in venues including **ICWSM**, **Computational Social Science (CSS)**, and the **Harvard Kennedy School Misinformation Review**, and presented at conferences and workshops across human–AI interaction, computational social science, network science, and complex systems.
 
 If you are interested in my work or would like to connect, feel free to reach out!
 
