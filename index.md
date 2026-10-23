@@ -15,7 +15,7 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year PhD student in Information Science at the University of Pittsburgh, [PICSO Lab](https://picsolab.github.io/), advised by [Prof. Yu-Ru Lin](http://www.yurulin.com/). My research lies at the intersection of **human–AI interaction, responsible AI, and computational social science**. I study how people decide when to trust, verify, and rely on AI systems, and how these individual interactions scale through feedback, social learning, and network structure into broader collective outcomes.
+I am a PhD Candidate in Information Science at the University of Pittsburgh, [PICSO Lab](https://picsolab.github.io/), advised by [Prof. Yu-Ru Lin](http://www.yurulin.com/). My research lies at the intersection of **human–AI interaction, responsible AI, and computational social science**. I study how people decide when to trust, verify, and rely on AI systems, and how these individual interactions scale through feedback, social learning, and network structure into broader collective outcomes.
 
 My dissertation examines **verification in real-world LLM information seeking**: what verification support AI systems provide, how users respond to epistemic cues such as sources and uncertainty, and how people decide when checking an AI response is worth the effort. More broadly, I study feedback between people and computational systems, including how algorithmic environments shape attention, engagement, and subsequent behavior.
 
